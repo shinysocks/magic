@@ -1,0 +1,32 @@
+4 [CMR:384] Sigarda's Aid
+4 [ONE:330] Kemba, Kha Enduring
+2 [C17:65] Leonin Relic-Warder
+4 [J25:268] Sunspear Shikari
+4 [FDN:363] Arahbo, the First Fang
+3 [KHM:299] Halvar, God of Battle
+4 [FDN:414] Leyline Axe
+1 [M20:26] Leyline of Sanctity
+2 [LTC:353] Shadowspear
+3 [J22:53] Balan, Wandering Knight
+3 [TSR:303] Sram, Senior Edificer
+2 [DOM:211] Blackblade Reforged
+4 [5DN:19] Steelshaper's Gift
+1 [ZEN:230] Plains
+1 [NEO:293] Plains
+2 [LTR:273] Plains
+2 [SLP:31] Plains
+1 [SWS:252d] Plains
+1 [MOM:282] Plains
+1 [ZEN:233] Plains
+2 [SLD:391] Plains
+1 [MOM:283] Plains
+1 [VOW:269] Plains
+1 [SLD:1382] Plains
+1 [LCI:287] Plains
+1 [HOU:185] Plains
+1 [SLD:1468] Plains
+1 [SWS:252a] Plains
+1 [OTJ:272] Plains
+1 [ZEN:231] Plains
+LAYOUT MAIN:(1,12)(NONE,false,17)|([CMR:384],[CMR:384],[CMR:384],[CMR:384],[DOM:211],[DOM:211],[ZEN:230],[NEO:293],[LTR:273],[SLP:31],[SWS:252d],[MOM:282],[ZEN:233],[SLD:391],[LTR:273],[MOM:283],[VOW:269],[SLD:1382],[SLP:31],[SLD:391],[LCI:287],[HOU:185],[SLD:1468],[SWS:252a],[OTJ:272],[ZEN:231])([ONE:330],[ONE:330],[ONE:330],[ONE:330])([C17:65],[C17:65])([J25:268],[J25:268],[J25:268],[J25:268])([FDN:363],[FDN:363],[FDN:363],[FDN:363])([KHM:299],[KHM:299],[KHM:299])([FDN:414],[FDN:414],[FDN:414],[FDN:414])([M20:26])([LTC:353],[LTC:353])([J22:53],[J22:53],[J22:53])([TSR:303],[TSR:303],[TSR:303])([5DN:19],[5DN:19],[5DN:19],[5DN:19])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,19)|
