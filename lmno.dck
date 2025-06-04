@@ -1,0 +1,21 @@
+NAME:lmno
+4 [SLD:1223] Lotus Cobra
+4 [M20:176] Healer of the Glade
+4 [ZNR:311] Brushfire Elemental
+4 [SLD:1257] Risen Reef
+4 [M20:216] Omnath, Locus of the Roil
+4 [ORI:209] Zendikar's Roil
+1 [MAT:72] Nissa, Resurgent Animist
+2 [M20:127] Chandra, Awakened Inferno
+4 [M20:162] Thunderkin Awakener
+4 [THB:151] Purphoros's Intervention
+2 [M20:193] Shared Summons
+4 [ZNR:289] Riverglide Pathway
+4 [ZNR:287] Cragcrown Pathway
+4 [SLU:11] Barkchannel Pathway
+4 [PW23:11] Unclaimed Territory
+4 [PW21:4] Fabled Passage
+2 [ZNR:299] Akoum Hellhound
+1 [M20:126] Chandra, Acolyte of Flame
+LAYOUT MAIN:(1,11)(NONE,false,17)|([SLD:1223],[SLD:1223],[SLD:1223],[SLD:1223],[ZNR:289],[ZNR:289],[ZNR:289],[ZNR:289],[ORI:209])([M20:176],[M20:176],[M20:176],[M20:176],[SLU:11],[SLU:11],[SLU:11],[SLU:11])([ZNR:311],[ZNR:311],[ZNR:311],[ZNR:311],[PW23:11],[PW23:11],[PW23:11],[PW23:11])([SLD:1257],[SLD:1257],[SLD:1257],[SLD:1257],[PW21:4],[PW21:4],[PW21:4],[PW21:4])([M20:216],[M20:216],[M20:216],[M20:216],[ZNR:287],[ZNR:287],[ZNR:287],[ZNR:287])([ORI:209],[ORI:209],[ORI:209])([MAT:72],[M20:126])([M20:127],[M20:127],[ZNR:299],[ZNR:299])([M20:162],[M20:162],[M20:162],[M20:162])([THB:151],[THB:151],[THB:151],[THB:151])([M20:193],[M20:193])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,19)|
