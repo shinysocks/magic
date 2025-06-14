@@ -1,0 +1,21 @@
+4 [SLD:1741] The Ozolith
+3 [MPS:42] Ornithopter
+1 [DMR:388] Tormod's Crypt
+3 [PMEI:2023-3] Gingerbrute
+4 [CLB:319] Manifold Key
+2 [BRC:164] Steel Overseer
+2 [C21:267] Steel Overseer
+2 [AFR:367] Grazilaxx, Illithid Scholar
+3 [BRC:93] Sai, Master Thopterist
+4 [BIG:72] Worldwalker Helm
+3 [KLR:302] Sculpting Steel
+2 [BRO:364] Liberator, Urza's Battlethopter
+1 [BRO:366] The Stasis Coffin
+2 [J22:796] Shambling Suit
+4 [MPS:13] Hangarback Walker
+4 [BRC:101] Whirler Rogue
+9 [KLD:255] Island
+3 [KLD:253] Island
+4 [KLD:254] Island
+LAYOUT MAIN:(1,12)(NONE,false,17)|([SLD:1741],[SLD:1741],[SLD:1741],[SLD:1741],[DMR:388],[KLD:255],[KLD:253],[KLD:254],[KLD:255],[KLD:255],[KLD:255],[KLD:255],[KLD:253],[KLD:255],[KLD:253],[KLD:255],[KLD:255],[KLD:254],[KLD:255],[KLD:254],[KLD:254])([MPS:42],[MPS:42],[MPS:42],[KLR:302],[KLR:302],[KLR:302])([PMEI:2023-3],[PMEI:2023-3],[PMEI:2023-3],[BRC:93],[BRC:93],[BRC:93])([CLB:319],[CLB:319],[CLB:319],[CLB:319])([BRC:101],[BRC:101],[BRC:101],[BRC:101])([BRC:164],[BRC:164],[C21:267],[C21:267])([AFR:367],[AFR:367])([BIG:72],[BIG:72],[BIG:72],[BIG:72])([BRO:364],[BRO:364])([BRO:366])([J22:796],[J22:796])([MPS:13],[MPS:13],[MPS:13],[MPS:13])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,19)|
