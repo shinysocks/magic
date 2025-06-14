@@ -1,0 +1,20 @@
+4 [OTJ:109] Tinybones, the Pickpocket
+3 [SLD:1407] Tinybones, Trinket Thief
+4 [OTJ:328] Tinybones Joins Up
+4 [SLD:1117] Thoughtseize
+2 [STA:29] Duress
+4 [NEO:340] Dokuchi Silencer
+4 [FDN:170] Burglar Rat
+3 [STX:71] Flunk
+2 [MOM:120] Nezumi Informant
+2 [PRM:88270] Valki, God of Lies
+2 [BRO:326] Gix, Yawgmoth Praetor
+4 [KHM:111] Skull Raid
+2 [WOE:246] Gingerbrute
+9 [ZEN:238] Swamp
+3 [ZEN:240] Swamp
+1 [ZEN:239] Swamp
+5 [ZEN:241] Swamp
+2 [SLD:1299] Waste Not
+LAYOUT MAIN:(1,12)(NONE,false,17)|([ZEN:238],[ZEN:238],[ZEN:238],[ZEN:240],[ZEN:239],[ZEN:241],[ZEN:238],[ZEN:240],[ZEN:241],[ZEN:238],[ZEN:241],[ZEN:240],[ZEN:241],[ZEN:238],[ZEN:238],[ZEN:238],[ZEN:241],[ZEN:238])([SLD:1407],[SLD:1407],[SLD:1407])([OTJ:328],[OTJ:328],[OTJ:328],[OTJ:328])([SLD:1117],[SLD:1117],[SLD:1117],[SLD:1117])([STA:29],[STA:29])([NEO:340],[NEO:340],[NEO:340],[NEO:340])([FDN:170],[FDN:170],[FDN:170],[FDN:170])([STX:71],[STX:71],[STX:71],[SLD:1299],[SLD:1299])([MOM:120],[MOM:120],[KHM:111],[KHM:111],[KHM:111],[KHM:111])([PRM:88270],[PRM:88270],[BRO:326],[BRO:326])([WOE:246],[WOE:246])([OTJ:109],[OTJ:109],[OTJ:109],[OTJ:109])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,19)|
